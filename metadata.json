@@ -1,0 +1,7 @@
+{
+  "name": "DeviceWatch",
+  "description": "Real-time laptop and device performance monitoring, alert detection, and AI troubleshooting platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
